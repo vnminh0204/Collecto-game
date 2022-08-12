@@ -44,8 +44,14 @@ run `java -jar CollectoClient.jar'` if you want to run the CollectoClient.
 There are 2 main files are CollectoClient.java (in CollectoGame/src/collectoclient package) and CollectoServer.java (in CollectoGame/src/server
 package). These files have the main method to start client and server
 
+# III. Game rule:
 
-# III. How to start the game?
+You can consult Collecto game rule in:
+
+https://foxmind.com/wp-content/uploads/2019/10/Collecto_Rules_print.pdf
+
+
+# IV. How to start the game?
 ● The client:
 
 1. Run the “CollectoClient.java”. Then the TUI will ask “Do you want to play the
