@@ -37,7 +37,7 @@ bar: `cmd`, this will open a command prompt.
 
 run `java -jar CollectoServer.jar` to start the Collecto server.
 
-run `java -jar CollectoClient.jar'` if you want to run the CollectoClient.
+run `java -jar CollectoClient.jar` if you want to run the CollectoClient.
 
 ## 2. Normal installation
 
