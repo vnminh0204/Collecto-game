@@ -29,8 +29,9 @@ The game is made completely in Java as a final project for module 2 Software Sys
 # II. How to set up the file?
 
 We provided a zip file with 2 running options.
-## 1. For the jar file installation: you have to extract the zip two jar files namely
-CollectoClient.jar and CollectoServer.jar. To run the files you first need to go inside of the File
+## 1. Jar file installation: 
+
+You have to extract the zip two jar files namely CollectoClient.jar and CollectoServer.jar. To run the files you first need to go inside of the File
 Explorer of your PC to the folder where the jar file is located. Then you type in the navigation
 bar: `cmd`, this will open a command prompt. 
 
@@ -38,8 +39,9 @@ run `java -jar CollectoServer.jar` to start the Collecto server.
 
 run `java -jar CollectoClient.jar'` if you want to run the CollectoClient.
 
-## 2. For the normal installation, these 2 main files are CollectoClient.java (in
-CollectoGame/src/collectoclient package) and CollectoServer.java (in CollectoGame/src/server
+## 2. Normal installation
+
+There are 2 main files are CollectoClient.java (in CollectoGame/src/collectoclient package) and CollectoServer.java (in CollectoGame/src/server
 package). These files have the main method to start client and server
 
 
