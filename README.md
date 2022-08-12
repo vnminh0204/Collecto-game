@@ -35,6 +35,7 @@ Explorer of your PC to the folder where the jar file is located. Then you type i
 bar: `cmd`, this will open a command prompt. 
 
 run `java -jar CollectoServer.jar` to start the Collecto server.
+
 run `java -jar CollectoClient.jar'` if you want to run the CollectoClient.
 
 ## 2. For the normal installation, these 2 main files are CollectoClient.java (in
